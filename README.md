@@ -1,7 +1,7 @@
 CodeSage AI: An AI code reviewer that provides insightful feedback every time a pull request is opened on your repository. Let CodeSage AI approve it, and you can seamlessly merge with confidence!
 
 ## Setup
-You have to create a MindsDB account and log into it. Then train a GPT model based on your desired prompt and share the credentials with RevAI so that it'll be able to comment on changes.
+You have to create a [MindsDB account](https://mindsdb.com/) and log into it. Then train a GPT model based on your desired prompt and share the credentials with RevAI so that it'll be able to comment on changes.
 
 Once you've created the account, follow the steps here.
 
